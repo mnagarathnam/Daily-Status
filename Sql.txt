@@ -1,0 +1,15 @@
+Table create 
+insert values
+data retrive(all values)
+filters(single value)
+conditions (and & or)
+multiple conditions
+update table (values)
+add column in table
+add column in table (data type)
+rename column name
+add values in column
+delete value in column
+delete all data in table ( when table is empty)
+delete table
+table_rename completed
