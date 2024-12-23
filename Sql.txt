@@ -1,3 +1,4 @@
+status:
 Table create 
 insert values
 data retrive(all values)
@@ -13,3 +14,20 @@ delete value in column
 delete all data in table ( when table is empty)
 delete table
 table_rename completed
+https://github.com/mnagarathnam/Daily-Status.git
+
+--select *from Customers 
+--where first_name= "David" and last_name = "Robinson"
+--select * from Customers
+--where first_name="John" or last_name= "Robinson" or age= 28;
+--select * from Customers
+--where not first_name="John" or last_name= "Robinson" or age= 28;
+--select * from Orders
+--where item="Monitor" and amount=12000 or customer_id= 4;
+--select*from Shippings
+--select* from Shippings
+--where status="Delivered"and shipping_id=5;
+--select* from Shippings
+--where status="Delivered"and shipping_id=5 or customer=4;
+select* from Shippings
+where status="Delivered"and shipping_id=5 or customer=2;
